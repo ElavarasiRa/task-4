@@ -1,0 +1,292 @@
+* {
+    box-szing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+	background-color: black;
+	width: 100%;
+	height: 45px;
+}
+.ul {
+	float: left;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.ul li {
+	color: white;
+    display: inline-block;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 15px;
+    padding: 0px 0px;
+}
+pre.active{
+	list-style-type: none;
+	padding: 7px 10px;
+	font-size: 15px;
+}
+li.act{
+	margin-left: 50px;
+	font-size: 15px;
+}
+img{
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 25px;
+}
+.perform{
+	float: right;
+}
+.perform li{
+	display: inline-block; 
+	padding: 12px 12px;
+	font-size: 15px;
+}
+.support{
+	color: lightgray;
+}
+.dhruva{
+	width: 100%;
+	height: 280px;
+	margin-left: 0px;
+	position: absolute;
+    left: 0px;
+    top: 45px;
+    z-index: -1;
+}
+.head{
+	display: flex;
+	background-color: black;
+	width: 100%;
+	height: 45px;
+	opacity: 0.5;
+}
+.castle{
+	color: white;
+	font-size: 30px;
+	padding: 4px 20px;
+}
+.button{
+    border: 1px solid #b300b3;
+    background-image: url("../img/square.png");
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: left;
+    color: white;
+    background-color: #b300b3;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    padding: 0px 25px;
+    margin-left:  -590px;
+}
+.heading{
+	background-color: #cccccc;
+	width: 100%;
+	height: 45px;
+	margin-top: 235px;
+	box-shadow:0px 2px 2px black;
+}
+.row1{
+	float: left;
+	margin-left: 5px;
+	padding: 5px;
+}
+.vl{
+	border-left: 1px solid white;
+	margin-left: 135px;
+	height: 45px;
+}
+.angle{
+	margin-left: 0px;
+	margin-top: -35px;
+}
+.row2{
+	margin-left: 0px;
+}
+.villan{
+	font-size: 15px;
+	color: #b300b3;
+	margin-left: 0px;
+}
+.chennai{
+	font-size: 10px;
+	display: flex;
+}
+.job{
+	margin-left: 25px;
+	font-size: 15px;
+	color: #b300b3;
+}
+.mumbai{
+	margin-left: 25px;
+	font-size: 10px;
+	display: flex;
+}
+.male{
+	margin-left: 25px;
+	font-size: 15px;
+	color: #b300b3;
+}
+.now{
+	margin-left: 25px;
+	font-size: 10px;
+	display: flex;
+}
+.wrapper{
+	margin-top: 10px;
+	background-color: #cccccc;
+	width: 100%;
+	height: 250px;
+	display: flex;
+}
+.c1{
+	background-color: white;
+	width: 23%;
+	height: 250px;
+	box-shadow: 0px 2px 2px black;
+	display: flex;
+}
+.verticalline{
+	margin-left: 0px;
+	border-left: 15px solid white;
+	height: 250px;
+	display: flex;
+}
+.c2{
+	margin-left: 0px;
+	width: 3%;
+	height: 250px;
+	box-shadow: 0px 2px 2px black;
+	background-color: gray;
+}
+#icon{
+	color: white;
+	font-size: 44px;
+	margin-left: 10px;
+	margin-top: 100px; 
+}
+.talent{
+	margin-top: 10px;
+	margin-left: 360px;
+}
+.view{
+	margin-left: 830px;
+	margin-top: -8px;
+	color: #b300b3;
+	font-size: 15px;
+}
+.c3{
+	float: right;
+	background-color: gray;
+	width: 3%;
+	height: 250px;
+	box-shadow: 0px 2px 2px black;
+}
+.column{
+	width: 100%;
+	height: 280px;
+	margin-top: 10px;
+	background-color: #f2f2f2;
+	box-shadow: 0px 2px 2px black;
+}
+.star{
+	text-align: center;
+}
+.all{
+	float: right;
+	margin-right: 180px;
+	margin-top: -8px;
+	color: #b300b3;
+	font-size: 15px;
+}
+#icon1{
+	font-size: 55px;
+	margin-top: 100px;
+	margin-left: 30px;
+}
+.image{
+	width: 185px;
+	height: 185px;
+	margin-top: 20px;
+}
+.col1{
+	width: 100%;
+	height: 280px;
+	margin-top: 10px;
+	background-color: #f2f2f2;
+	box-shadow: 0px 2px 2px black;
+}
+.col2{
+	margin-left: 10px;
+	float: right;
+	width: 100%;
+	height: 280px;
+	margin-top: 10px;
+	box-shadow: 0px 2px 2px black;
+	background-color: #f2f2f2;
+}
+.our{
+	text-align: center;
+	margin-top: 10px;
+}
+.alt{
+	float: right;
+	margin-right: 120px;
+	margin-top: 0px;
+	color: #b300b3;
+	font-size: 15px;
+}
+#icon2{
+	font-size: 65px;
+	margin-top: 80px;
+	margin-left: 40px;
+}
+.last{
+	width: 100%;
+	margin-top: 10px;
+	height: 320px;
+	background-color: #4d0000;
+}
+.few{
+	color: white;
+	text-align: center;
+}
+#icon3{
+	font-size: 65px;
+	margin-top: 120px;
+	margin-left: 20px;
+}
+.gallery{
+	padding: 2px 50px;
+	width: 155px;
+	height: 155px;
+	margin-top: 40px;
+}
+.profile{
+	margin-left: 75px;
+	color: white;
+}
+.footer{
+	margin-top: 20px;
+	width: 100%;
+	height: 105px;
+	color: white;
+	float: left;
+	background-color: black;
+}
+.png{
+	margin-left: 530px;
+	font-size: 30px;
+}
+.ab{
+	width: 25px;
+	height: 25px;
+}
+.load{
+	padding: 5px;
+	margin-top: 20px;
+	margin-left: 630px; 
+}
